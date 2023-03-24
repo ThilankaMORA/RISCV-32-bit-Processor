@@ -1,0 +1,15 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+D:/Verilog files/CSD_Project/CSD_Project.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+D:/Verilog files/CSD_Project/CSD_Project.srcs/sim_1/new/testbench.v,1676180657,verilog,,,,testbench,,,,,,,,
+D:/Verilog files/CSD_Project/CSD_Project.srcs/sources_1/new/ALUControl.v,1676131471,verilog,,D:/Verilog files/CSD_Project/CSD_Project.srcs/sources_1/new/Control_Unit.v,,ALUControl,,,,,,,,
+D:/Verilog files/CSD_Project/CSD_Project.srcs/sources_1/new/Control_Unit.v,1676117841,verilog,,D:/Verilog files/CSD_Project/CSD_Project.srcs/sources_1/new/Data_Path.v,,Control_Unit,,,,,,,,
+D:/Verilog files/CSD_Project/CSD_Project.srcs/sources_1/new/Data_Memory.v,1676179532,verilog,,D:/Verilog files/CSD_Project/CSD_Project.srcs/sim_1/new/testbench.v,,Data_Memory,,,,,,,,
+D:/Verilog files/CSD_Project/CSD_Project.srcs/sources_1/new/Data_Path.v,1676179638,verilog,,D:/Verilog files/CSD_Project/CSD_Project.srcs/sources_1/new/Riscv_32_bit.v,,Data_Path,,,,,,,,
+D:/Verilog files/CSD_Project/CSD_Project.srcs/sources_1/new/General_purpose_reg.v,1676129699,verilog,,D:/Verilog files/CSD_Project/CSD_Project.srcs/sources_1/new/Instruction_Memory.v,,General_purpose_reg,,,,,,,,
+D:/Verilog files/CSD_Project/CSD_Project.srcs/sources_1/new/Instruction_Memory.v,1676178233,verilog,,D:/Verilog files/CSD_Project/CSD_Project.srcs/sources_1/new/alu32.v,,Instruction_Memory,,,,,,,,
+D:/Verilog files/CSD_Project/CSD_Project.srcs/sources_1/new/Riscv_32_bit.v,1676118394,verilog,,D:/Verilog files/CSD_Project/CSD_Project.srcs/sources_1/new/Data_Memory.v,,Riscv_32_bit,,,,,,,,
+D:/Verilog files/CSD_Project/CSD_Project.srcs/sources_1/new/alu32.v,1676130726,verilog,,D:/Verilog files/CSD_Project/CSD_Project.srcs/sources_1/new/data_memory_with_cache_and_victim_cache.v,,alu32,,,,,,,,
+D:/Verilog files/CSD_Project/CSD_Project.srcs/sources_1/new/data_memory_with_cache_and_victim_cache.v,1676167948,verilog,,D:/Verilog files/CSD_Project/CSD_Project.srcs/sources_1/new/ALUControl.v,,data_memory_with_cache_and_victim_cache,,,,,,,,

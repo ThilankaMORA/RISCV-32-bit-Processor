@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="159994516fs"></ZoomStartTime>
+      <ZoomEndTime time="160003537fs"></ZoomEndTime>
+      <Cursor1Time time="160000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="146"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="5" />
+   <wvobject fp_name="/testbench/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/uut/DU/ALU_Control_unit/ALUOp" type="array">
+      <obj_property name="ElementShortName">ALUOp[1:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUOp[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/uut/DU/ALU_Control_unit/Function" type="array">
+      <obj_property name="ElementShortName">Function[5:0]</obj_property>
+      <obj_property name="ObjectShortName">Function[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/uut/DU/ALU_Control_unit/ALU_Control" type="array">
+      <obj_property name="ElementShortName">ALU_Control[4:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_Control[4:0]</obj_property>
+   </wvobject>
+</wave_config>

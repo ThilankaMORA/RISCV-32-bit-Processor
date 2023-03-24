@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../CSD_Project.srcs/sources_1/new/General_purpose_reg.v" \
+"../../../../CSD_Project.srcs/sources_1/new/Instruction_Memory.v" \
+"../../../../CSD_Project.srcs/sources_1/new/alu32.v" \
+"../../../../CSD_Project.srcs/sources_1/new/data_memory_with_cache_and_victim_cache.v" \
+"../../../../CSD_Project.srcs/sources_1/new/ALUControl.v" \
+"../../../../CSD_Project.srcs/sources_1/new/Control_Unit.v" \
+"../../../../CSD_Project.srcs/sources_1/new/Data_Path.v" \
+"../../../../CSD_Project.srcs/sources_1/new/Riscv_32_bit.v" \
+"../../../../CSD_Project.srcs/sources_1/new/Data_Memory.v" \
+"../../../../CSD_Project.srcs/sim_1/new/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
