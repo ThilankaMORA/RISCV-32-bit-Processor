@@ -1,0 +1,5 @@
+# RISCV-32-bit-Processor
+
+This document provides a comprehensive introduction to the RISC-V 32-bit CPU with a direct mapping cache and victim cache that has been designed and built. The CPU is based on the RV32I RISC-V ISA specification and supports the instruction classes R-type, I-type, S-type, and SB-type. The successful implementation of U and UJ-type instructions was a bonus and demonstrate the versatility of the design.
+The CPU has been designed with performance in mind and the single-cycle architecture ensures that the overall delay is kept to a minimum. The integration of the direct mapping cache with a victim cache significantly enhances the performance of the CPU, allowing it to run faster and more efficiently. The design of the CPU has been optimized for both functionality and resource usage, ensuring that it is both capable and efficient.
+To verify the design of the CPU, a set of assembly programs have been run and the results were carefully analyzed. The results demonstrate that the CPU is capable of executing all the instructions in the specified instruction classes and that it performs as expected.
